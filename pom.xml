@@ -25,7 +25,7 @@
   <snapshotRepository>
     <id>snapshots</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>/var/lib/jenkins/myartifact/snapshots/</url>
+    <url>file:///var/lib/jenkins/myartifact/snapshots/</url>
    </snapshotRepository>
 </distributionManagement>
 
